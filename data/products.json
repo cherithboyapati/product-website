@@ -1,0 +1,50 @@
+[
+  {
+    "id": "p1",
+    "name": "Wireless Headphones",
+    "price": 49.99,
+    "quantity": 25,
+    "image": "https://plus.unsplash.com/premium_photo-1679513691474-73102089c117?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aGVhZHBob25lc3xlbnwwfHwwfHx8MA%3D%3D",
+    "description": "Premium noise-cancelling headphones with 20h battery"
+  },
+  {
+    "id": "p2",
+    "name": "USB-C Cable",
+    "price": 12.99,
+    "quantity": 100,
+    "image": "https://m.media-amazon.com/images/I/51Noy3pbn7L._SX522_.jpg",
+    "description": "Durable 2m USB-C charging and data cable"
+  },
+  {
+    "id": "p3",
+    "name": "iPhone 15 Pro",
+    "price": 999.99,
+    "quantity": 12,
+    "image": "https://cdsassets.apple.com/live/7WUAS350/images/tech-specs/iphone_15_pro.png",
+    "description": "Latest iPhone 15 Pro with A17 Pro chip and advanced camera"
+  },
+  {
+    "id": "p4",
+    "name": "Power Bank",
+    "price": 29.99,
+    "quantity": 30,
+    "image": "https://www.myepico.com/wp-content/uploads/2021/08/EPI-PH-PB08-SG-02.jpg",
+    "description": "20000mAh portable charger with fast charging"
+  },
+  {
+    "id": "p5",
+    "name": "Screen Protector",
+    "price": 9.99,
+    "quantity": 150,
+    "image": "https://m.media-amazon.com/images/I/61+CUeD7voL._SX679_.jpg",
+    "description": "Tempered glass screen protector for smartphones"
+  },
+  {
+    "id": "p6",
+    "name": "Laptop Cooling Pad",
+    "price": 34.99,
+    "quantity": 15,
+    "image": "https://images-cdn.ubuy.co.in/6851002052b1eeca350625fa-llano-rgb-laptop-cooling-pad-gaming.jpg",
+    "description": "USB-powered laptop cooler with 2 fans"
+  }
+]
